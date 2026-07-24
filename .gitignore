@@ -10,8 +10,8 @@ coverage/
 # PDF files
 *.pdf
 
-# Intermediate data
-data/
+# Intermediate data (NOT src/data/ which is source code)
+/data/
 
 # Python scripts
 *.py
