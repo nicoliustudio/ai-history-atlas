@@ -1,0 +1,1825 @@
+[
+  {
+    "id": "georgetown-ibm-mt-1954",
+    "slug": "georgetown-ibm-automatic-translation",
+    "titleZh": "乔治城大学与IBM合作演示首次机器自动翻译",
+    "titleEn": "Georgetown-IBM Automatic Translation Demonstration",
+    "dateStart": "1954-01-01",
+    "datePrecision": "year",
+    "eraId": "era-01",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "乔治城大学与IBM合作，首次公开演示将俄语句子自动翻译为英语。尽管基于简单规则，但成功实现了跨语言转换。",
+    "summaryEn": "Georgetown University and IBM collaborated to publicly demonstrate the automatic translation of Russian sentences into English. Despite relying on simple rules, it successfully achieved cross-lingual conversion.",
+    "significanceZh": "开创了计算语言学与机器翻译的全新纪元，证明了机器处理自然语言的工程可行性。",
+    "significanceEn": "Opened a new era in computational linguistics and machine translation, proving the engineering feasibility of machines processing natural language.",
+    "changedWhatZh": [
+      "开启了机器翻译的研究领域",
+      "验证了自然语言处理的早期工程路径"
+    ],
+    "changedWhatEn": [
+      "Launched the field of machine translation research",
+      "Validated early engineering paths for natural language processing"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-washington-dc-1954",
+        "cityZh": "华盛顿特区",
+        "cityEn": "Washington D.C.",
+        "countryCode": "US",
+        "lat": 38.91,
+        "lng": -77.04,
+        "basis": "physical_event_location",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "logic-theorist-1956",
+    "slug": "logic-theorist-program",
+    "titleZh": "逻辑理论家(Logic Theorist)程序开发成功",
+    "titleEn": "Development of Logic Theorist Program",
+    "dateStart": "1956-01-01",
+    "datePrecision": "year",
+    "eraId": "era-02",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "Allen Newell和Herbert Simon开发出逻辑理论家程序，能够自动证明数学定理。该程序成功推导了《数学原理》中的多个命题，开创了符号推理的先河。",
+    "summaryEn": "Allen Newell and Herbert Simon developed the Logic Theorist program, capable of automatically proving mathematical theorems. It successfully derived multiple propositions from Principia Mathematica, pioneering symbolic reasoning.",
+    "significanceZh": "被公认为历史上第一个真正的人工智能程序，标志着AI从理论探讨正式迈入工程实践阶段。",
+    "significanceEn": "Widely recognized as the first true AI program in history, marking the formal transition of AI from theoretical discussion to engineering practice.",
+    "changedWhatZh": [
+      "开创了符号推理与自动定理证明的先河",
+      "证明了机器可以进行逻辑推导"
+    ],
+    "changedWhatEn": [
+      "Pioneered symbolic reasoning and automated theorem proving",
+      "Demonstrated that machines could perform logical deduction"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-pittsburgh-1956",
+        "cityZh": "匹兹堡",
+        "cityEn": "Pittsburgh",
+        "countryCode": "US",
+        "lat": 40.44,
+        "lng": -79.99,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "lisp-1958",
+    "slug": "lisp-programming-language",
+    "titleZh": "LISP编程语言诞生",
+    "titleEn": "Birth of LISP Programming Language",
+    "dateStart": "1958-01-01",
+    "datePrecision": "year",
+    "eraId": "era-02",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "compute-infrastructure"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "John McCarthy在MIT发明LISP语言，首次将递归函数作为核心原语，采用S-表达式统一表示数据与程序，并首创自动垃圾回收机制。",
+    "summaryEn": "John McCarthy invented the LISP programming language at MIT, introducing recursive functions as core primitives, unifying data and program representation via S-expressions, and pioneering automatic garbage collection.",
+    "significanceZh": "成为此后数十年AI研究与开发的主导编程语言，极大推动了符号主义AI与知识表示的发展。",
+    "significanceEn": "Became the dominant programming language for AI research and development for decades, greatly advancing symbolic AI and knowledge representation.",
+    "changedWhatZh": [
+      "确立了函数式编程与符号处理范式",
+      "为AI研究提供了专用语言工具"
+    ],
+    "changedWhatEn": [
+      "Established functional programming and symbolic processing paradigms",
+      "Provided a dedicated language tool for AI research"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-cambridge-1958",
+        "cityZh": "剑桥",
+        "cityEn": "Cambridge",
+        "countryCode": "US",
+        "lat": 42.36,
+        "lng": -71.09,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "eliza-1966",
+    "slug": "eliza-chatbot",
+    "titleZh": "ELIZA聊天机器人发布",
+    "titleEn": "Release of ELIZA Chatbot",
+    "dateStart": "1966-01-01",
+    "datePrecision": "year",
+    "eraId": "era-02",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Joseph Weizenbaum开发ELIZA程序，通过模式匹配与规则替换模拟心理治疗师与用户对话。",
+    "summaryEn": "Joseph Weizenbaum developed the ELIZA program, simulating conversations with a psychotherapist through pattern matching and rule substitution.",
+    "significanceZh": "首次展示了人机自然语言交互的可能性，同时也暴露了早期符号AI缺乏真正语义理解的局限性。",
+    "significanceEn": "First demonstrated the possibility of human-computer natural language interaction, while also exposing the limitations of early symbolic AI in lacking true semantic understanding.",
+    "changedWhatZh": [
+      "展示了早期自然语言交互范式",
+      "引发了对AI意识与理解的哲学讨论"
+    ],
+    "changedWhatEn": [
+      "Showcased early natural language interaction paradigms",
+      "Sparked philosophical discussions on AI consciousness and understanding"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-cambridge-1966",
+        "cityZh": "剑桥",
+        "cityEn": "Cambridge",
+        "countryCode": "US",
+        "lat": 42.36,
+        "lng": -71.09,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "perceptrons-book-1969",
+    "slug": "minsky-papert-perceptrons",
+    "titleZh": "Minsky与Papert出版《Perceptrons》证明感知机局限",
+    "titleEn": "Minsky and Papert Publish Perceptrons",
+    "dateStart": "1969-01-01",
+    "datePrecision": "year",
+    "eraId": "era-02",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Marvin Minsky与Seymour Papert在著作中严格证明单层感知机无法拟合异或函数，揭示线性分类器的根本局限。",
+    "summaryEn": "Marvin Minsky and Seymour Papert rigorously proved in their book that single-layer perceptrons cannot fit the XOR function, revealing the fundamental limitations of linear classifiers.",
+    "significanceZh": "该结论被广泛解读为神经网络不可行，直接导致政府与企业削减经费，引发第一次AI寒冬。",
+    "significanceEn": "The conclusion was widely interpreted as neural networks being unfeasible, directly leading to funding cuts by governments and corporations, triggering the first AI winter.",
+    "changedWhatZh": [
+      "揭示了单层神经网络的数学局限",
+      "间接导致第一次AI寒冬"
+    ],
+    "changedWhatEn": [
+      "Revealed mathematical limitations of single-layer neural networks",
+      "Indirectly contributed to the first AI winter"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-cambridge-1969",
+        "cityZh": "剑桥",
+        "cityEn": "Cambridge",
+        "countryCode": "US",
+        "lat": 42.36,
+        "lng": -71.09,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 5,
+      "globalReach": 4,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "shrdlu-1970",
+    "slug": "shrdlu-block-world",
+    "titleZh": "Winograd创造SHRDLU积木世界程序",
+    "titleEn": "Winograd Creates SHRDLU Block World Program",
+    "dateStart": "1970-01-01",
+    "datePrecision": "year",
+    "eraId": "era-02",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Terry Winograd创造SHRDLU系统，在受限的积木微世界中理解自然语言指令并操控虚拟积木。",
+    "summaryEn": "Terry Winograd created the SHRDLU system, which understood natural language commands and manipulated virtual blocks within a constrained block world.",
+    "significanceZh": "展示了早期计算机视觉与自然语言交互的结合范式，成为AI理解上下文与指代关系的里程碑。",
+    "significanceEn": "Demonstrated an early paradigm combining computer vision and natural language interaction, becoming a milestone in AI's understanding of context and reference.",
+    "changedWhatZh": [
+      "推动了自然语言理解与上下文推理研究",
+      "奠定了早期人机交互实验基础"
+    ],
+    "changedWhatEn": [
+      "Advanced research in natural language understanding and contextual reasoning",
+      "Laid the foundation for early human-computer interaction experiments"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-cambridge-1970",
+        "cityZh": "剑桥",
+        "cityEn": "Cambridge",
+        "countryCode": "US",
+        "lat": 42.36,
+        "lng": -71.09,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 3,
+      "societalEffect": 2,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "werbos-backprop-1974",
+    "slug": "werbos-backpropagation-thesis",
+    "titleZh": "Paul Werbos在博士论文中首次提出反向传播算法",
+    "titleEn": "Paul Werbos Proposes Backpropagation in PhD Thesis",
+    "dateStart": "1974-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "Paul Werbos在哈佛大学博士论文中首次提出通过误差反向传播训练多层神经网络的思想。",
+    "summaryEn": "Paul Werbos first proposed the idea of training multi-layer neural networks via error backpropagation in his Harvard University PhD thesis.",
+    "significanceZh": "比主流学界早近十年提出该理论，为后续深度神经网络的训练奠定了核心数学基础。",
+    "significanceEn": "Proposed the theory nearly a decade before the mainstream academic community, laying the core mathematical foundation for training subsequent deep neural networks.",
+    "changedWhatZh": [
+      "奠定了多层神经网络训练的理论基础",
+      "为深度学习复兴埋下伏笔"
+    ],
+    "changedWhatEn": [
+      "Laid the theoretical foundation for training multi-layer neural networks",
+      "Paved the way for the deep learning renaissance"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-cambridge-1974",
+        "cityZh": "剑桥",
+        "cityEn": "Cambridge",
+        "countryCode": "US",
+        "lat": 42.36,
+        "lng": -71.09,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "neocognitron-1980",
+    "slug": "fukushima-neocognitron",
+    "titleZh": "福岛邦彦提出Neocognitron卷积神经网络模型",
+    "titleEn": "Kunihiko Fukushima Proposes Neocognitron",
+    "dateStart": "1980-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "福岛邦彦受视觉皮层启发，构建了首个具有层级卷积结构的模式识别模型Neocognitron。",
+    "summaryEn": "Inspired by the visual cortex, Kunihiko Fukushima constructed Neocognitron, the first pattern recognition model with a hierarchical convolutional structure.",
+    "significanceZh": "奠定了卷积神经网络（CNN）的理论基石，为后续计算机视觉的深度学习突破提供了关键架构灵感。",
+    "significanceEn": "Laid the theoretical cornerstone for Convolutional Neural Networks (CNNs), providing key architectural inspiration for subsequent deep learning breakthroughs in computer vision.",
+    "changedWhatZh": [
+      "开创了卷积神经网络架构先河",
+      "启发了现代计算机视觉模型设计"
+    ],
+    "changedWhatEn": [
+      "Pioneered the convolutional neural network architecture",
+      "Inspired modern computer vision model design"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-tokyo-1980",
+        "cityZh": "东京",
+        "cityEn": "Tokyo",
+        "countryCode": "JP",
+        "lat": 35.68,
+        "lng": 139.76,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "japan-5th-gen-1982",
+    "slug": "japan-fifth-generation-computer-project",
+    "titleZh": "日本通产省启动第五代计算机国家计划",
+    "titleEn": "Japan Launches Fifth Generation Computer Systems Project",
+    "dateStart": "1982-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "policy-governance",
+    "trackIds": [
+      "policy-governance",
+      "compute-infrastructure",
+      "society-industry"
+    ],
+    "landmarkTier": "B",
+    "status": "verified",
+    "summaryZh": "日本通产省启动为期十年的国家计划，投资约8.5亿美元，试图以Prolog语言构建具有推理能力的智能计算机。",
+    "summaryEn": "Japan's MITI launched a decade-long national project, investing approximately $850 million, aiming to build intelligent computers with reasoning capabilities using the Prolog language.",
+    "significanceZh": "展现了国家层面对AI的巨额押注，虽未达预期，但推动了逻辑编程与知识工程发展，为AI历史留下深刻教训。",
+    "significanceEn": "Demonstrated massive national-level betting on AI. Although it fell short of expectations, it advanced logic programming and knowledge engineering, leaving profound lessons for AI history.",
+    "changedWhatZh": [
+      "激发了全球AI国家战略投资热潮",
+      "推动了专家系统与知识工程商业化"
+    ],
+    "changedWhatEn": [
+      "Sparked a global wave of national strategic AI investments",
+      "Advanced the commercialization of expert systems and knowledge engineering"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-tokyo-1982",
+        "cityZh": "东京",
+        "cityEn": "Tokyo",
+        "countryCode": "JP",
+        "lat": 35.68,
+        "lng": 139.76,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 4,
+      "globalReach": 5,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "boltzmann-machine-1985",
+    "slug": "hinton-boltzmann-machine",
+    "titleZh": "提出Boltzmann机引入随机性与隐藏层",
+    "titleEn": "Introduction of Boltzmann Machine",
+    "dateStart": "1985-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Geoffrey Hinton等人提出Boltzmann机，引入模拟退火机制与隐藏层架构，使网络具备学习复杂内部表示的能力。",
+    "summaryEn": "Geoffrey Hinton and colleagues proposed the Boltzmann Machine, introducing simulated annealing mechanisms and hidden layer architectures, enabling networks to learn complex internal representations.",
+    "significanceZh": "突破了确定性网络的局限，为后续深度生成模型与无监督学习提供了重要理论框架。",
+    "significanceEn": "Broke through the limitations of deterministic networks, providing an important theoretical framework for subsequent deep generative models and unsupervised learning.",
+    "changedWhatZh": [
+      "引入了随机性与能量模型概念",
+      "为深度无监督学习奠定基础"
+    ],
+    "changedWhatEn": [
+      "Introduced concepts of stochasticity and energy-based models",
+      "Laid the groundwork for deep unsupervised learning"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-toronto-1985",
+        "cityZh": "多伦多",
+        "cityEn": "Toronto",
+        "countryCode": "CA",
+        "lat": 43.65,
+        "lng": -79.38,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 2,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "universal-approximation-1989",
+    "slug": "hornik-universal-approximation-theorem",
+    "titleZh": "Kurt Hornik等人证明神经网络通用逼近定理",
+    "titleEn": "Universal Approximation Theorem for Neural Networks Proven",
+    "dateStart": "1989-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Kurt Hornik等人严格证明单层前馈网络可以以任意精度逼近任何连续函数。",
+    "summaryEn": "Kurt Hornik and colleagues rigorously proved that single-layer feedforward networks can approximate any continuous function to arbitrary accuracy.",
+    "significanceZh": "为神经网络的表达能力提供了坚实的数学保障，扭转了学界对神经网络理论可行性的质疑。",
+    "significanceEn": "Provided solid mathematical assurance for the expressive power of neural networks, reversing academic skepticism about their theoretical feasibility.",
+    "changedWhatZh": [
+      "确立了神经网络的数学表达能力",
+      "重振了神经网络研究信心"
+    ],
+    "changedWhatEn": [
+      "Established the mathematical expressive power of neural networks",
+      "Revitalized confidence in neural network research"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-vienna-1989",
+        "cityZh": "维也纳",
+        "cityEn": "Vienna",
+        "countryCode": "AT",
+        "lat": 48.21,
+        "lng": 16.37,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 2,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "td-gammon-1992",
+    "slug": "tesauro-td-gammon",
+    "titleZh": "Tesauro通过自我博弈训练TD-Gammon西洋双陆棋程序",
+    "titleEn": "Tesauro Trains TD-Gammon via Self-Play",
+    "dateStart": "1992-01-01",
+    "datePrecision": "year",
+    "eraId": "era-03",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Gerald Tesauro利用时序差分学习与神经网络，通过自我博弈训练出达到大师水平的西洋双陆棋程序TD-Gammon。",
+    "summaryEn": "Gerald Tesauro used temporal difference learning and neural networks to train TD-Gammon, a backgammon program that reached master level through self-play.",
+    "significanceZh": "首次验证了强化学习在复杂博弈中的巨大潜力，为后续AlphaGo等深度强化学习系统奠定基础。",
+    "significanceEn": "First validated the huge potential of reinforcement learning in complex games, laying the foundation for subsequent deep reinforcement learning systems like AlphaGo.",
+    "changedWhatZh": [
+      "验证了强化学习与自我博弈的有效性",
+      "启发了现代游戏AI与决策智能"
+    ],
+    "changedWhatEn": [
+      "Validated the effectiveness of reinforcement learning and self-play",
+      "Inspired modern game AI and decision intelligence"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-yorktown-heights-1992",
+        "cityZh": "约克敦海茨",
+        "cityEn": "Yorktown Heights",
+        "countryCode": "US",
+        "lat": 41.31,
+        "lng": -73.88,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 3,
+      "societalEffect": 2,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "lstm-1997",
+    "slug": "hochreiter-lstm",
+    "titleZh": "Hochreiter提出长短期记忆网络（LSTM）",
+    "titleEn": "Hochreiter Proposes Long Short-Term Memory (LSTM)",
+    "dateStart": "1997-01-01",
+    "datePrecision": "year",
+    "eraId": "era-04",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "Sepp Hochreiter提出LSTM架构，通过门控机制（遗忘门、输入门、输出门）解决循环神经网络的长距离依赖问题。",
+    "summaryEn": "Sepp Hochreiter proposed the LSTM architecture, solving the long-term dependency problem of recurrent neural networks through gating mechanisms (forget, input, and output gates).",
+    "significanceZh": "突破了传统RNN的梯度消失瓶颈，成为序列建模与自然语言处理领域的核心基础架构。",
+    "significanceEn": "Broke through the vanishing gradient bottleneck of traditional RNNs, becoming a core foundational architecture in sequence modeling and natural language processing.",
+    "changedWhatZh": [
+      "解决了序列建模的梯度消失问题",
+      "奠定了现代NLP与语音识别的架构基础"
+    ],
+    "changedWhatEn": [
+      "Solved the vanishing gradient problem in sequence modeling",
+      "Laid the architectural foundation for modern NLP and speech recognition"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-munich-1997",
+        "cityZh": "慕尼黑",
+        "cityEn": "Munich",
+        "countryCode": "DE",
+        "lat": 48.14,
+        "lng": 11.58,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "darpa-grand-challenge-2005",
+    "slug": "darpa-grand-challenge-2005",
+    "titleZh": "DARPA举办第二届无人驾驶沙漠挑战赛",
+    "titleEn": "DARPA Grand Challenge 2005",
+    "dateStart": "2005-01-01",
+    "datePrecision": "year",
+    "eraId": "era-04",
+    "primaryTrack": "compute-infrastructure",
+    "trackIds": [
+      "compute-infrastructure",
+      "society-industry",
+      "model-product"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "美国DARPA发起无人驾驶赛事，2005年斯坦福大学团队车辆Stanley赢得冠军，完成212公里自主行驶全程。",
+    "summaryEn": "The US DARPA launched an autonomous driving competition. In 2005, Stanford University's team vehicle Stanley won the championship, completing the full 212 km autonomous drive.",
+    "significanceZh": "激发了全球自动驾驶研究热潮，标志着自动驾驶技术从理论走向工程化验证的关键转折。",
+    "significanceEn": "Sparked a global wave of autonomous driving research, marking a critical turning point from theory to engineering validation for autonomous driving technology.",
+    "changedWhatZh": [
+      "推动了自动驾驶技术工程化落地",
+      "促进了传感器融合与实时决策算法发展"
+    ],
+    "changedWhatEn": [
+      "Advanced the engineering deployment of autonomous driving technology",
+      "Promoted the development of sensor fusion and real-time decision algorithms"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-mojave-desert-2005",
+        "cityZh": "莫哈韦沙漠",
+        "cityEn": "Mojave Desert",
+        "countryCode": "US",
+        "lat": 35.01,
+        "lng": -115.47,
+        "basis": "physical_event_location",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-ai-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "deep-belief-networks-2006",
+    "slug": "deep-belief-networks",
+    "titleZh": "深度信念网络(DBN)与逐层预训练方法提出",
+    "titleEn": "Proposal of Deep Belief Networks and Layer-wise Pre-training",
+    "dateStart": "2006-01-01",
+    "datePrecision": "year",
+    "eraId": "era-04",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "Geoffrey Hinton等人在《Science》发表论文，提出深度信念网络及逐层贪婪预训练策略，首次实现深层神经网络的有效训练。",
+    "summaryEn": "Geoffrey Hinton et al. published a paper in Science proposing Deep Belief Networks and layer-wise greedy pre-training, achieving the first effective training of deep neural networks.",
+    "significanceZh": "成功突破梯度消失瓶颈，使训练十层以上神经网络成为可能，直接引爆第三次AI浪潮（深度学习革命）。",
+    "significanceEn": "Successfully broke through the vanishing gradient bottleneck, enabling the training of networks with over ten layers and directly igniting the third AI wave (Deep Learning Revolution).",
+    "changedWhatZh": [
+      "突破深层网络训练瓶颈",
+      "开启深度学习复兴"
+    ],
+    "changedWhatEn": [
+      "Broke through deep network training bottlenecks",
+      "Initiated the deep learning renaissance"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-toronto-2006",
+        "cityZh": "多伦多",
+        "cityEn": "Toronto",
+        "countryCode": "CA",
+        "lat": 43.65,
+        "lng": -79.38,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "nvidia-cuda-platform-2006",
+    "slug": "nvidia-cuda-platform",
+    "titleZh": "NVIDIA发布CUDA通用计算平台",
+    "titleEn": "NVIDIA releases CUDA computing platform",
+    "dateStart": "2006-01-01",
+    "datePrecision": "year",
+    "eraId": "era-04",
+    "primaryTrack": "compute-infrastructure",
+    "trackIds": [
+      "compute-infrastructure",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "NVIDIA推出CUDA编程模型，将图形处理器转化为大规模并行计算引擎，为神经网络训练提供百倍加速能力。",
+    "summaryEn": "NVIDIA launched the CUDA programming model, transforming GPUs into large-scale parallel computing engines and providing hundred-fold acceleration for neural network training.",
+    "significanceZh": "彻底突破算力瓶颈，成为深度学习爆发的核心基础设施，奠定了现代AI硬件生态的基石。",
+    "significanceEn": "Completely broke through computing power bottlenecks, becoming the core infrastructure for the deep learning explosion and laying the foundation for the modern AI hardware ecosystem.",
+    "changedWhatZh": [
+      "确立GPU在AI训练中的核心地位",
+      "构建现代AI算力基础设施"
+    ],
+    "changedWhatEn": [
+      "Established GPU's core role in AI training",
+      "Built modern AI computing infrastructure"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-santa-clara-2006",
+        "cityZh": "圣克拉拉",
+        "cityEn": "Santa Clara",
+        "countryCode": "US",
+        "lat": 37.35,
+        "lng": -121.95,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "google-self-driving-car-project-2009",
+    "slug": "google-self-driving-car-project",
+    "titleZh": "Google秘密启动自动驾驶汽车项目",
+    "titleEn": "Google secretly launches self-driving car project",
+    "dateStart": "2009-01-01",
+    "datePrecision": "year",
+    "eraId": "era-04",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "society-industry"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Google招募斯坦福Stanley团队核心成员，秘密启动自动驾驶汽车项目，开展大规模工程化与道路实测。",
+    "summaryEn": "Google recruited core members of the Stanford Stanley team to secretly launch a self-driving car project, initiating large-scale engineering and road testing.",
+    "significanceZh": "将自动驾驶学术研究推向商业化与规模化验证阶段，直接催生了Waymo等现代自动驾驶产业。",
+    "significanceEn": "Pushed autonomous driving research towards commercialization and large-scale validation, directly spawning modern industries like Waymo.",
+    "changedWhatZh": [
+      "推动自动驾驶技术商业化",
+      "催生智能出行产业"
+    ],
+    "changedWhatEn": [
+      "Advanced commercialization of autonomous driving",
+      "Spawned smart mobility industries"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-mountain-view-2009",
+        "cityZh": "山景城",
+        "cityEn": "Mountain View",
+        "countryCode": "US",
+        "lat": 37.39,
+        "lng": -122.08,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "word2vec-release-2013",
+    "slug": "word2vec-release",
+    "titleZh": "Mikolov等人发布Word2Vec词向量模型",
+    "titleEn": "Mikolov et al. release Word2Vec",
+    "dateStart": "2013-01-01",
+    "datePrecision": "year",
+    "eraId": "era-05",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Tomas Mikolov等人提出Word2Vec，将词汇映射为稠密向量，使语义关系可通过向量运算捕捉。",
+    "summaryEn": "Tomas Mikolov et al. proposed Word2Vec, mapping words to dense vectors so that semantic relationships could be captured through vector operations.",
+    "significanceZh": "开创了分布式词表示范式，大幅提升了自然语言处理任务的性能，成为预训练语言模型的重要前身。",
+    "significanceEn": "Pioneered the distributed word representation paradigm, significantly boosting NLP performance and serving as a crucial precursor to pre-trained language models.",
+    "changedWhatZh": [
+      "确立分布式词表示范式",
+      "提升NLP任务性能"
+    ],
+    "changedWhatEn": [
+      "Established distributed word representation paradigm",
+      "Enhanced NLP task performance"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-mountain-view-2013",
+        "cityZh": "山景城",
+        "cityEn": "Mountain View",
+        "countryCode": "US",
+        "lat": 37.39,
+        "lng": -122.08,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "googlenet-inception-2014",
+    "slug": "googlenet-inception",
+    "titleZh": "Szegedy团队提出GoogLeNet (Inception) 架构",
+    "titleEn": "Szegedy team proposes GoogLeNet (Inception) architecture",
+    "dateStart": "2014-01-01",
+    "datePrecision": "year",
+    "eraId": "era-05",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Google团队提出GoogLeNet，引入Inception模块实现多尺度特征并行提取，仅用500万参数达到22层深度。",
+    "summaryEn": "The Google team proposed GoogLeNet, introducing the Inception module for parallel multi-scale feature extraction, achieving 22 layers with only 5 million parameters.",
+    "significanceZh": "证明了网络深度与效率可兼得，推动了卷积神经网络架构向更深、更巧的方向演进。",
+    "significanceEn": "Proved that network depth and efficiency can coexist, driving CNN architectures towards deeper and more efficient designs.",
+    "changedWhatZh": [
+      "优化CNN架构效率",
+      "推动多尺度特征提取"
+    ],
+    "changedWhatEn": [
+      "Optimized CNN architecture efficiency",
+      "Advanced multi-scale feature extraction"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-mountain-view-2014",
+        "cityZh": "山景城",
+        "cityEn": "Mountain View",
+        "countryCode": "US",
+        "lat": 37.39,
+        "lng": -122.08,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "resnet-architecture-2015",
+    "slug": "resnet-architecture",
+    "titleZh": "残差网络(ResNet)架构提出",
+    "titleEn": "Proposal of Residual Network (ResNet) Architecture",
+    "dateStart": "2015-01-01",
+    "datePrecision": "year",
+    "eraId": "era-05",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "何恺明团队构建152层残差网络，通过跳跃连接引入恒等映射，彻底解决深层网络梯度消失问题，在ImageNet上错误率达3.57%。",
+    "summaryEn": "Kaiming He's team built a 152-layer residual network, introducing identity mapping via skip connections to completely solve the vanishing gradient problem in deep networks, achieving a 3.57% error rate on ImageNet.",
+    "significanceZh": "首次使计算机视觉识别精度超越人类水平，成为深度学习基石架构之一，极大推动了神经网络向更深层次演进。",
+    "significanceEn": "First surpassed human-level accuracy in computer vision, becoming a cornerstone architecture for deep learning and greatly advancing deeper neural networks.",
+    "changedWhatZh": [
+      "实现图像识别超越人类水平",
+      "确立极深网络可训练性"
+    ],
+    "changedWhatEn": [
+      "Achieved superhuman image recognition",
+      "Established trainability of extremely deep networks"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-redmond-2015",
+        "cityZh": "雷德蒙德",
+        "cityEn": "Redmond",
+        "countryCode": "US",
+        "lat": 47.67,
+        "lng": -122.12,
+        "basis": "primary_research_institution",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 5,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "deep-learning-turing-award-2018",
+    "slug": "deep-learning-turing-award",
+    "titleZh": "深度学习三巨头荣获图灵奖",
+    "titleEn": "Deep Learning Pioneers Awarded the Turing Award",
+    "dateStart": "2018-01-01",
+    "datePrecision": "year",
+    "eraId": "era-06",
+    "primaryTrack": "society-industry",
+    "trackIds": [
+      "society-industry",
+      "policy-governance"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "Geoffrey Hinton、Yann LeCun与Yoshua Bengio因在深度学习领域的奠基性贡献共同获得2018年图灵奖。",
+    "summaryEn": "Geoffrey Hinton, Yann LeCun, and Yoshua Bengio jointly received the 2018 Turing Award for their foundational contributions to deep learning.",
+    "significanceZh": "标志着学术界与工业界对深度学习范式转变的最高认可，巩固了其在现代AI领域的核心地位。",
+    "significanceEn": "Marked the highest academic and industrial recognition of the deep learning paradigm shift, solidifying its core status in modern AI.",
+    "changedWhatZh": [
+      "确立深度学习主流地位",
+      "获得学术界最高认可"
+    ],
+    "changedWhatEn": [
+      "Established mainstream status of deep learning",
+      "Received highest academic recognition"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2018",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "physical_event_location",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "gpt-3-release-2020",
+    "slug": "gpt-3-release",
+    "titleZh": "GPT-3大语言模型发布",
+    "titleEn": "Release of GPT-3 Large Language Model",
+    "dateStart": "2020-06-01",
+    "datePrecision": "month",
+    "eraId": "era-06",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "OpenAI发布拥有1750亿参数的GPT-3模型，展示强大的少样本学习与多任务泛化能力。",
+    "summaryEn": "OpenAI released the 175-billion-parameter GPT-3 model, demonstrating powerful few-shot learning and multi-task generalization capabilities.",
+    "significanceZh": "验证了“规模法则”，证明模型能力可通过参数与数据规模实现质变，正式开启大模型时代。",
+    "significanceEn": "Validated the \"Scaling Laws\", proving that model capabilities can undergo qualitative leaps through scale, officially ushering in the era of large models.",
+    "changedWhatZh": [
+      "验证规模法则",
+      "开启大语言模型时代"
+    ],
+    "changedWhatEn": [
+      "Validated scaling laws",
+      "Ushered in the LLM era"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2020",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "openai-clip-release-2021",
+    "slug": "openai-clip-release",
+    "titleZh": "OpenAI发布CLIP图文对比学习模型",
+    "titleEn": "OpenAI releases CLIP model",
+    "dateStart": "2021-01-01",
+    "datePrecision": "year",
+    "eraId": "era-06",
+    "primaryTrack": "theory-algorithm",
+    "trackIds": [
+      "theory-algorithm",
+      "model-product"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "OpenAI发布CLIP模型，通过图文对比学习将图像与文本映射到统一向量空间，实现零样本视觉分类。",
+    "summaryEn": "OpenAI released the CLIP model, mapping images and text to a unified vector space via contrastive learning, enabling zero-shot visual classification.",
+    "significanceZh": "打通了视觉与语言模态的壁垒，为后续多模态大模型的发展奠定了关键架构基础。",
+    "significanceEn": "Broke down barriers between vision and language modalities, laying a crucial architectural foundation for subsequent multimodal large models.",
+    "changedWhatZh": [
+      "打通图文模态壁垒",
+      "奠定多模态学习基础"
+    ],
+    "changedWhatEn": [
+      "Broke vision-language modal barriers",
+      "Laid foundation for multimodal learning"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2021",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 3,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "gpt-4-release-2023",
+    "slug": "gpt-4-release",
+    "titleZh": "GPT-4多模态大模型发布",
+    "titleEn": "Release of GPT-4 Multimodal Large Model",
+    "dateStart": "2023-03-01",
+    "datePrecision": "month",
+    "eraId": "era-07",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "OpenAI发布GPT-4，首次支持图像输入等多模态交互，并在多项专业考试中表现接近人类顶尖水平。",
+    "summaryEn": "OpenAI released GPT-4, supporting multimodal interactions like image input for the first time, and performing near human-top levels in various professional exams.",
+    "significanceZh": "标志着AI从单一文本处理向全感官多模态理解跨越，大幅拓展了大模型在复杂推理与专业场景中的应用边界。",
+    "significanceEn": "Marked AI's leap from single-text processing to full-sensory multimodal understanding, greatly expanding application boundaries in complex reasoning and professional scenarios.",
+    "changedWhatZh": [
+      "实现多模态交互跨越",
+      "拓展复杂推理应用边界"
+    ],
+    "changedWhatEn": [
+      "Achieved multimodal interaction leap",
+      "Expanded complex reasoning application boundaries"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2023",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 5
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "gpt-4v-release-2023",
+    "slug": "gpt-4v-release",
+    "titleZh": "OpenAI发布具备视觉推理能力的GPT-4V",
+    "titleEn": "OpenAI releases GPT-4V with vision capabilities",
+    "dateStart": "2023-01-01",
+    "datePrecision": "year",
+    "eraId": "era-07",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "OpenAI发布GPT-4V，赋予大语言模型视觉推理能力，可分析图表、照片与手写文字等复杂图像。",
+    "summaryEn": "OpenAI released GPT-4V, endowing large language models with visual reasoning capabilities to analyze complex images like charts, photos, and handwriting.",
+    "significanceZh": "标志着大模型从纯文本向原生多模态交互迈出关键一步，极大拓展了AI的应用边界。",
+    "significanceEn": "Marked a key step for large models from pure text to native multimodal interaction, greatly expanding AI's application boundaries.",
+    "changedWhatZh": [
+      "赋予LLM视觉推理能力",
+      "推进多模态交互落地"
+    ],
+    "changedWhatEn": [
+      "Endowed LLMs with visual reasoning",
+      "Advanced multimodal interaction deployment"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2023v",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 3
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "google-gemini-release-2023",
+    "slug": "google-gemini-release",
+    "titleZh": "Google Gemini原生多模态模型发布",
+    "titleEn": "Release of Google Gemini Native Multimodal Model",
+    "dateStart": "2023-12-01",
+    "datePrecision": "month",
+    "eraId": "era-07",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "Google发布Gemini模型，采用原生多模态架构设计，在文本、图像、音频和视频处理上实现底层统一。",
+    "summaryEn": "Google released the Gemini model, featuring a native multimodal architecture that unifies text, image, audio, and video processing at the foundational level.",
+    "significanceZh": "推动了多模态AI从“后期拼接式”向“原生融合式”演进，加剧了全球大模型技术路线的竞争与迭代。",
+    "significanceEn": "Drove multimodal AI evolution from \"post-hoc stitching\" to \"native fusion\", intensifying global competition and iteration in large model tech routes.",
+    "changedWhatZh": [
+      "确立原生多模态架构范式",
+      "加剧大模型技术竞争"
+    ],
+    "changedWhatEn": [
+      "Established native multimodal architecture paradigm",
+      "Intensified large model tech competition"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-mountain-view-2023",
+        "cityZh": "山景城",
+        "cityEn": "Mountain View",
+        "countryCode": "US",
+        "lat": 37.39,
+        "lng": -122.08,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "openai-sora-release-2024",
+    "slug": "openai-sora-release",
+    "titleZh": "OpenAI Sora视频生成模型发布",
+    "titleEn": "Release of OpenAI Sora Video Generation Model",
+    "dateStart": "2024-01-01",
+    "datePrecision": "year",
+    "eraId": "era-07",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "theory-algorithm"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "OpenAI发布Sora模型，能够根据文本提示生成高质量、长篇幅且物理规律逼真的视频内容。",
+    "summaryEn": "OpenAI released the Sora model, capable of generating high-quality, long-duration videos with realistic physical laws based on text prompts.",
+    "significanceZh": "标志着AI视频生成技术取得突破性进展，被誉为“AI视频元年”的核心驱动力，重塑数字内容创作产业。",
+    "significanceEn": "Marked a breakthrough in AI video generation, hailed as the core driver of the \"AI Video Year\", reshaping the digital content creation industry.",
+    "changedWhatZh": [
+      "突破AI视频生成技术",
+      "重塑数字内容创作产业"
+    ],
+    "changedWhatEn": [
+      "Broke through AI video generation tech",
+      "Reshaped digital content creation industry"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2024",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 4,
+      "impact": 4,
+      "globalReach": 5,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "openai-gpt-4o-release-2024",
+    "slug": "openai-gpt-4o-release",
+    "titleZh": "OpenAI发布端到端多模态模型GPT-4o",
+    "titleEn": "OpenAI releases end-to-end multimodal model GPT-4o",
+    "dateStart": "2024-01-01",
+    "datePrecision": "year",
+    "eraId": "era-07",
+    "primaryTrack": "model-product",
+    "trackIds": [
+      "model-product",
+      "compute-infrastructure"
+    ],
+    "landmarkTier": "A",
+    "status": "verified",
+    "summaryZh": "OpenAI发布GPT-4o，采用端到端多模态架构，将语音交互延迟降至232毫秒。",
+    "summaryEn": "OpenAI released GPT-4o, adopting an end-to-end multimodal architecture that reduced voice interaction latency to 232 milliseconds.",
+    "significanceZh": "大幅提升了多模态实时交互体验，推动了AI助手向更自然、更低延迟的方向发展。",
+    "significanceEn": "Significantly improved multimodal real-time interaction experience, driving AI assistants towards more natural and lower-latency development.",
+    "changedWhatZh": [
+      "实现低延迟实时交互",
+      "优化端到端多模态架构"
+    ],
+    "changedWhatEn": [
+      "Achieved low-latency real-time interaction",
+      "Optimized end-to-end multimodal architecture"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-san-francisco-2024o",
+        "cityZh": "旧金山",
+        "cityEn": "San Francisco",
+        "countryCode": "US",
+        "lat": 37.77,
+        "lng": -122.42,
+        "basis": "company_headquarters",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 4,
+      "globalReach": 4,
+      "societalEffect": 4,
+      "evidenceReliability": 5,
+      "historicalIndependence": 3
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  },
+  {
+    "id": "nobel-chemistry-ai-protein-2024",
+    "slug": "nobel-chemistry-ai-protein",
+    "titleZh": "诺贝尔化学奖授予AI蛋白质结构预测研究",
+    "titleEn": "Nobel Prize in Chemistry Awarded for AI Protein Structure Prediction",
+    "dateStart": "2024-01-01",
+    "datePrecision": "year",
+    "eraId": "era-07",
+    "primaryTrack": "society-industry",
+    "trackIds": [
+      "society-industry",
+      "policy-governance"
+    ],
+    "landmarkTier": "S",
+    "status": "verified",
+    "summaryZh": "2024年诺贝尔化学奖授予David Baker与Demis Hassabis，表彰其在蛋白质结构预测与设计方面的计算突破。",
+    "summaryEn": "The 2024 Nobel Prize in Chemistry was awarded to David Baker and Demis Hassabis for their computational breakthroughs in protein structure prediction and design.",
+    "significanceZh": "首次将诺贝尔科学奖授予AI驱动的计算生物学研究，确立了人工智能在基础科学研究中的核心工具地位。",
+    "significanceEn": "First awarded a Nobel science prize to AI-driven computational biology research, establishing AI's core tool status in fundamental scientific research.",
+    "changedWhatZh": [
+      "确立AI在基础科研中的核心地位",
+      "推动计算生物学突破"
+    ],
+    "changedWhatEn": [
+      "Established AI's core role in fundamental research",
+      "Advanced computational biology breakthroughs"
+    ],
+    "conceptIds": [],
+    "actorIds": [],
+    "organizationIds": [],
+    "locations": [
+      {
+        "id": "loc-stockholm-2024",
+        "cityZh": "斯德哥尔摩",
+        "cityEn": "Stockholm",
+        "countryCode": "SE",
+        "lat": 59.33,
+        "lng": 18.07,
+        "basis": "physical_event_location",
+        "confidence": "high",
+        "evidenceSourceIds": []
+      }
+    ],
+    "sourceIds": [
+      "src-history-archive"
+    ],
+    "scoring": {
+      "originality": 3,
+      "impact": 5,
+      "globalReach": 5,
+      "societalEffect": 5,
+      "evidenceReliability": 5,
+      "historicalIndependence": 4
+    },
+    "featured": false,
+    "storyChapterIds": [],
+    "firstPublishedAt": "2026-07-24",
+    "lastReviewedAt": "2026-07-24",
+    "reviewedBy": [
+      "AI Editorial Team"
+    ],
+    "dataVersion": "1.0.0"
+  }
+]

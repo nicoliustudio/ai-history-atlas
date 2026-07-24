@@ -1,0 +1,174 @@
+[
+  {
+    "title_zh": "逻辑理论家(Logic Theorist)程序开发成功",
+    "title_en": "Development of Logic Theorist Program",
+    "date": "1956-01-01",
+    "date_precision": "year",
+    "city_zh": "匹兹堡",
+    "country_code": "US",
+    "summary_zh": "Allen Newell和Herbert Simon开发出逻辑理论家程序，能够自动证明数学定理。",
+    "significance_zh": "被公认为历史上第一个真正的人工智能程序，标志着AI从理论探讨正式迈入工程实践阶段。",
+    "people": [
+      "Allen Newell",
+      "Herbert Simon"
+    ],
+    "organization": "卡内基梅隆大学",
+    "source_hint": "1950s- 1960s: 早期乐观主义与重要成果"
+  },
+  {
+    "title_zh": "LISP编程语言诞生",
+    "title_en": "Birth of LISP Programming Language",
+    "date": "1958-01-01",
+    "date_precision": "year",
+    "city_zh": "剑桥",
+    "country_code": "US",
+    "summary_zh": "John McCarthy发明LISP语言，引入递归、垃圾回收等革命性概念。",
+    "significance_zh": "成为此后数十年AI研究与开发的主导编程语言，极大推动了符号主义AI与知识表示的发展。",
+    "people": [
+      "John McCarthy"
+    ],
+    "organization": "麻省理工学院",
+    "source_hint": "1950s- 1960s: 早期乐观主义与重要成果"
+  },
+  {
+    "title_zh": "ELIZA聊天机器人发布",
+    "title_en": "Release of ELIZA Chatbot",
+    "date": "1966-01-01",
+    "date_precision": "year",
+    "city_zh": "剑桥",
+    "country_code": "US",
+    "summary_zh": "Joseph Weizenbaum开发ELIZA程序，通过模式匹配与规则替换模拟心理治疗师与用户对话。",
+    "significance_zh": "首次展示了人机自然语言交互的可能性，同时也暴露了早期符号AI缺乏真正语义理解的局限性。",
+    "people": [
+      "Joseph Weizenbaum"
+    ],
+    "organization": "麻省理工学院",
+    "source_hint": "1950s- 1960s: 早期乐观主义与重要成果"
+  },
+  {
+    "title_zh": "日本第五代计算机计划启动",
+    "title_en": "Launch of Japan's Fifth Generation Computer Systems Project",
+    "date": "1985-01-01",
+    "date_precision": "year",
+    "city_zh": "东京",
+    "country_code": "JP",
+    "summary_zh": "日本政府投入巨资启动第五代计算机计划，旨在开发基于逻辑编程、并行处理和知识推理的AI计算机。",
+    "significance_zh": "引发全球AI投资与研发热潮，虽未完全达成原定目标，但极大推动了知识工程、并行计算与专家系统商业化。",
+    "people": [],
+    "organization": "日本政府",
+    "source_hint": "1980s: 专家系统的兴起与商业化"
+  },
+  {
+    "title_zh": "深度信念网络(DBN)与逐层预训练方法提出",
+    "title_en": "Proposal of Deep Belief Networks and Layer-wise Pre-training",
+    "date": "2006-01-01",
+    "date_precision": "year",
+    "city_zh": "多伦多",
+    "country_code": "CA",
+    "summary_zh": "Geoffrey Hinton等人在《Science》发表论文，提出深度信念网络及逐层预训练方法，解决深层网络训练难题。",
+    "significance_zh": "成功突破梯度消失瓶颈，使训练十层以上神经网络成为可能，直接引爆第三次AI浪潮（深度学习革命）。",
+    "people": [
+      "Geoffrey Hinton"
+    ],
+    "organization": "多伦多大学",
+    "source_hint": "2006: 深度学习的重生"
+  },
+  {
+    "title_zh": "残差网络(ResNet)架构提出",
+    "title_en": "Proposal of Residual Network (ResNet) Architecture",
+    "date": "2015-01-01",
+    "date_precision": "year",
+    "city_zh": "雷德蒙德",
+    "country_code": "US",
+    "summary_zh": "微软研究院提出ResNet架构，通过跳跃连接解决超深网络训练难题，在ImageNet上错误率达3.57%。",
+    "significance_zh": "首次使计算机视觉识别精度超越人类水平，成为深度学习基石架构之一，极大推动了神经网络向更深层次演进。",
+    "people": [],
+    "organization": "微软研究院",
+    "source_hint": "卷积神经网络（CNN）的演进"
+  },
+  {
+    "title_zh": "深度学习三巨头荣获图灵奖",
+    "title_en": "Deep Learning Pioneers Awarded the Turing Award",
+    "date": "2018-01-01",
+    "date_precision": "year",
+    "city_zh": "旧金山",
+    "country_code": "US",
+    "summary_zh": "Geoffrey Hinton、Yann LeCun与Yoshua Bengio因在深度学习领域的奠基性贡献共同获得2018年图灵奖。",
+    "significance_zh": "标志着学术界与工业界对深度学习范式转变的最高认可，巩固了其在现代AI领域的核心地位。",
+    "people": [
+      "Geoffrey Hinton",
+      "Yann LeCun",
+      "Yoshua Bengio"
+    ],
+    "organization": "ACM",
+    "source_hint": "深度学习三巨头"
+  },
+  {
+    "title_zh": "GPT-3大语言模型发布",
+    "title_en": "Release of GPT-3 Large Language Model",
+    "date": "2020-06-01",
+    "date_precision": "month",
+    "city_zh": "旧金山",
+    "country_code": "US",
+    "summary_zh": "OpenAI发布拥有1750亿参数的GPT-3模型，展示强大的少样本学习与多任务泛化能力。",
+    "significance_zh": "验证了“规模法则”(Scaling Laws)，证明模型能力可通过参数与数据规模实现质变，正式开启大模型时代。",
+    "people": [],
+    "organization": "OpenAI",
+    "source_hint": "2020: GPT-3震撼发布"
+  },
+  {
+    "title_zh": "GPT-4多模态大模型发布",
+    "title_en": "Release of GPT-4 Multimodal Large Model",
+    "date": "2023-03-01",
+    "date_precision": "month",
+    "city_zh": "旧金山",
+    "country_code": "US",
+    "summary_zh": "OpenAI发布GPT-4，首次支持图像输入等多模态交互，并在多项专业考试中表现接近人类顶尖水平。",
+    "significance_zh": "标志着AI从单一文本处理向全感官多模态理解跨越，大幅拓展了大模型在复杂推理与专业场景中的应用边界。",
+    "people": [],
+    "organization": "OpenAI",
+    "source_hint": "2023: GPT-4与多模态AI"
+  },
+  {
+    "title_zh": "Google Gemini原生多模态模型发布",
+    "title_en": "Release of Google Gemini Native Multimodal Model",
+    "date": "2023-12-01",
+    "date_precision": "month",
+    "city_zh": "山景城",
+    "country_code": "US",
+    "summary_zh": "Google发布Gemini模型，采用原生多模态架构设计，在文本、图像、音频和视频处理上实现底层统一。",
+    "significance_zh": "推动了多模态AI从“后期拼接式”向“原生融合式”演进，加剧了全球大模型技术路线的竞争与迭代。",
+    "people": [],
+    "organization": "Google",
+    "source_hint": "多模态AI浪潮"
+  },
+  {
+    "title_zh": "OpenAI Sora视频生成模型发布",
+    "title_en": "Release of OpenAI Sora Video Generation Model",
+    "date": "2024-01-01",
+    "date_precision": "year",
+    "city_zh": "旧金山",
+    "country_code": "US",
+    "summary_zh": "OpenAI发布Sora模型，能够根据文本提示生成高质量、长篇幅且物理规律逼真的视频内容。",
+    "significance_zh": "标志着AI视频生成技术取得突破性进展，被誉为“AI视频元年”的核心驱动力，重塑数字内容创作产业。",
+    "people": [],
+    "organization": "OpenAI",
+    "source_hint": "多模态AI浪潮 / 应用场景三：内容创作"
+  },
+  {
+    "title_zh": "诺贝尔化学奖授予AI蛋白质结构预测研究",
+    "title_en": "Nobel Prize in Chemistry Awarded for AI Protein Structure Prediction",
+    "date": "2024-01-01",
+    "date_precision": "year",
+    "city_zh": "斯德哥尔摩",
+    "country_code": "SE",
+    "summary_zh": "2024年诺贝尔化学奖授予David Baker与Demis Hassabis，表彰其在蛋白质结构预测与设计方面的计算突破。",
+    "significance_zh": "首次将诺贝尔科学奖授予AI驱动的计算生物学研究，确立了人工智能在基础科学研究中的核心工具地位。",
+    "people": [
+      "David Baker",
+      "Demis Hassabis"
+    ],
+    "organization": "瑞典皇家科学院",
+    "source_hint": "应用场景一：医疗健康"
+  }
+]

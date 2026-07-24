@@ -1,0 +1,59 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --font-serif: "Newsreader", "Georgia", "Times New Roman", serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  --color-paper: #F5F2ED;
+  --color-paper-muted: #E8E4DD;
+  --color-paper-card: #FAF8F5;
+  --color-ink: #1A1A1A;
+  --color-ink-muted: #5A5A5A;
+  --color-crimson: #C44536;
+}
+
+body {
+  background-color: #F5F2ED;
+  color: #1A1A1A;
+  font-family: var(--font-sans);
+}
+
+/* Custom Editorial Leaflet Popup Overrides */
+.leaflet-popup-content-wrapper {
+  background-color: #FAF8F5 !important;
+  color: #1A1A1A !important;
+  border: 1px solid #1A1A1A !important;
+  border-radius: 0px !important;
+  box-shadow: 4px 4px 0px #1A1A1A !important;
+  padding: 0 !important;
+}
+
+.leaflet-popup-tip {
+  background-color: #FAF8F5 !important;
+  border: 1px solid #1A1A1A !important;
+}
+
+.leaflet-container {
+  background-color: #E8E4DD !important;
+  font-family: var(--font-sans) !important;
+}
+
+/* Editorial custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #E8E4DD;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1A1A1A;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #C44536;
+}
+

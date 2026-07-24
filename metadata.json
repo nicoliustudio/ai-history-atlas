@@ -1,0 +1,6 @@
+{
+  "name": "全球人工智能演化图谱：1943—现在",
+  "description": "Atlas of Artificial Intelligence: A Global History from 1943 to Present (AI 赛博时空沙盘) — 结构化AI历史图谱、多轨时间轴、全球时空地图、概念网络与故事引导。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

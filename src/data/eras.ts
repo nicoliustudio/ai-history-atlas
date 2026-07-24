@@ -1,0 +1,108 @@
+import { Era } from '../types';
+
+export const ERAS: Era[] = [
+  {
+    id: 'era-01',
+    slug: 'prehistory-1943-1955',
+    titleZh: '机器智能思想前史',
+    titleEn: 'Prehistory of Machine Intelligence',
+    startYear: 1943,
+    endYear: 1955,
+    descriptionZh: '从神经元的数学抽象到图灵测试与控制论，确立计算设备模拟人类智力的理论可能性。',
+    descriptionEn: 'From mathematical models of neurons to Turing Test and cybernetics, establishing theoretical foundations for machine intelligence.',
+    keyThemeZh: '计算理论、逻辑门神经元、图灵测试',
+    keyThemeEn: 'Theory of Computation, Logical Neurons, Turing Test',
+    badgeColor: '#6366f1', // Indigo
+  },
+  {
+    id: 'era-02',
+    slug: 'symbolism-1956-1973',
+    titleZh: '符号主义与早期学习',
+    titleEn: 'Symbolism & Early Learning',
+    startYear: 1956,
+    endYear: 1973,
+    descriptionZh: '达特茅斯会议标志学科诞生，推演机器逻辑定理、感知机与早期对话程序，后因计算局限触发第一次寒冬。',
+    descriptionEn: 'Dartmouth workshop marks the birth of AI as a field. Exploration of symbolic reasoning, Perceptron, and early conversational agents.',
+    keyThemeZh: '达特茅斯会议、感知机、逻辑定理证明、LISP',
+    keyThemeEn: 'Dartmouth Workshop, Perceptron, Logic Theorist, LISP',
+    badgeColor: '#8b5cf6', // Violet
+  },
+  {
+    id: 'era-03',
+    slug: 'winters-revival-1974-1992',
+    titleZh: 'AI寒冬与神经网络复兴',
+    titleEn: 'AI Winters & Neural Revival',
+    startYear: 1974,
+    endYear: 1992,
+    descriptionZh: '经历Lighthill报告与专家系统泡沫跌宕，反向传播算法重新激活连接主义，卷积神经网络形态萌芽。',
+    descriptionEn: 'Navigating Lighthill report critiques and expert systems boom/bust. Backpropagation rediscovery revives connectionism.',
+    keyThemeZh: '专家系统、反向传播算法、卷积神经网络萌芽、第五代计算机',
+    keyThemeEn: 'Expert Systems, Backpropagation, CNN Seeds, Fifth-Gen Computer',
+    badgeColor: '#ec4899', // Pink
+  },
+  {
+    id: 'era-04',
+    slug: 'statistical-data-1993-2011',
+    titleZh: '统计学习与数据基础设施',
+    titleEn: 'Statistical Learning & Data Infrastructure',
+    startYear: 1993,
+    endYear: 2011,
+    descriptionZh: '深蓝击败卡斯帕罗夫，概率图模型与支持向量机主导学术界，ImageNet奠定大规模标注数据集基石。',
+    descriptionEn: 'Deep Blue defeats Kasparov. Probabilistic models and SVM dominance. ImageNet creates the benchmark for data-driven AI.',
+    keyThemeZh: '深蓝胜棋、SVM、ImageNet数据集、GPU加速算力萌芽',
+    keyThemeEn: 'Deep Blue, SVM, ImageNet Benchmark, Early GPU Compute',
+    badgeColor: '#06b6d4', // Cyan
+  },
+  {
+    id: 'era-05',
+    slug: 'deep-learning-2012-2016',
+    titleZh: '深度学习突破',
+    titleEn: 'Deep Learning Breakthrough',
+    startYear: 2012,
+    endYear: 2016,
+    descriptionZh: 'AlexNet在ImageNet大胜标志深度学习时代到来，GAN、Seq2Seq与Word2Vec革新表示学习，AlphaGo击败李世石震动全球。',
+    descriptionEn: 'AlexNet dominates ImageNet. GANs, Seq2Seq, and Word2Vec redefine representation learning. AlphaGo defeats Lee Sedol.',
+    keyThemeZh: 'AlexNet、Word2Vec、GAN、AlphaGo、强化学习',
+    keyThemeEn: 'AlexNet, Word2Vec, GAN, AlphaGo, Reinforcement Learning',
+    badgeColor: '#10b981', // Emerald
+  },
+  {
+    id: 'era-06',
+    slug: 'transformer-foundation-2017-2021',
+    titleZh: 'Transformer与基础模型',
+    titleEn: 'Transformer & Foundation Models',
+    startYear: 2017,
+    endYear: 2021,
+    descriptionZh: '《Attention Is All You Need》提出Transformer架构，GPT与BERT开启预训练范式，AlphaFold2破译蛋白质3D结构。',
+    descriptionEn: 'Attention Is All You Need introduces Transformer architecture. GPT & BERT spark self-supervised foundation model paradigm.',
+    keyThemeZh: 'Transformer架构、GPT/BERT、自监督预训练、AlphaFold 2',
+    keyThemeEn: 'Transformer Architecture, GPT/BERT, Self-Supervised Pretraining, AlphaFold 2',
+    badgeColor: '#f59e0b', // Amber
+  },
+  {
+    id: 'era-07',
+    slug: 'generative-democratization-2022-2024',
+    titleZh: '生成式AI大众化与平台化',
+    titleEn: 'Generative AI Democratization',
+    startYear: 2022,
+    endYear: 2024,
+    descriptionZh: 'ChatGPT引爆生成式AI热潮，LLaMA开启开源大模型繁荣，多模态（GPT-4V/Gemini）与芯片出口管制成为全球焦点。',
+    descriptionEn: 'ChatGPT sparks global consumer AI wave. LLaMA fuels open weights ecosystems. Multimodal models & GPU supply chain governance.',
+    keyThemeZh: 'ChatGPT、LLaMA开源生态、GPT-4多模态、欧盟AI法案',
+    keyThemeEn: 'ChatGPT, LLaMA Ecosystem, GPT-4 Multimodal, EU AI Act',
+    badgeColor: '#ef4444', // Red
+  },
+  {
+    id: 'era-08',
+    slug: 'open-reasoning-agents-2025-present',
+    titleZh: '开放推理、智能体与治理',
+    titleEn: 'Open Reasoning, Agents & Governance',
+    startYear: 2025,
+    endYear: null,
+    descriptionZh: '推理时计算（Inference-time compute）与强化学习范式转变，DeepSeek-R1展示开源高效率推理，智能体（Agents）深植产业。',
+    descriptionEn: 'Inference-time compute & open-weights reasoning paradigm shift. DeepSeek-R1 proves efficient reasoning models. Long-horizon AI agents.',
+    keyThemeZh: '推理强化学习、DeepSeek-R1、智能体协议(MCP)、主权AI',
+    keyThemeEn: 'Reasoning RL, DeepSeek-R1, Agent Protocols (MCP), Sovereign AI',
+    badgeColor: '#3b82f6', // Blue
+  },
+];
